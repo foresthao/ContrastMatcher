@@ -7,7 +7,7 @@ The ContrastMatcher framework employs graph contrastive learning (GCL) to learn 
 
 
 ## Code Release Plan
-**We are committed to making the code publicly available upon paper publication. ** The full implementation of the **ContrastMatcher** framework, along with all necessary datasets and experiment scripts, will be shared with the community for reproducibility and further research.
+We are committed to making the code publicly available upon paper publication. The full implementation of the **ContrastMatcher** framework, along with all necessary datasets and experiment scripts, will be shared with the community for reproducibility and further research.
 
 ## Getting Started
 The code will be publicly available after the paper is published. Stay tuned for updates!
